@@ -1,4 +1,4 @@
-# Magic-Weapon
+# Forbidden Tomb
 Escape game created with Unreal 
 
 Vimeo link: 
